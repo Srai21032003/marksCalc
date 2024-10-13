@@ -69,5 +69,5 @@ def process_exam_copy(input_path):
 
 
 # Example usage
-input_file = r'C:\Users\shiva\Downloads\SDL\img7.jpg'
+input_file = r'C:\Users\shiva\Downloads\SDL\Document_46_1.pdf'
 total = process_exam_copy(input_file)
